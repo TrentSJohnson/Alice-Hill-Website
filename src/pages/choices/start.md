@@ -1,9 +1,9 @@
 ---
 title: "Start"
-choice1: "/calm/"
-choice2: "/firey/"
+link1: "/choices/calm/"
+link2: "/choices/firey/"
+choice1: "calm person"
+choice2: "firey person"
+book: ""
 ---
 What kind of person are you?
-
-<a href="/calm/">
-<a href="/firey/">
