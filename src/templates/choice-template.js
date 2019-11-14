@@ -1,17 +1,10 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Layout from "../components/layout"
-import layoutStyles from "../components/layout.module.css"
+import ChoicePage from "../components/choicePage"
 
-export default ({ data }) => {
-  const post = data.markdownRemark
+export default ({ data, location }) => {
   return (
-    <Layout>
-      <div>
-        <h1 >{post.frontmatter.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      </div>
-    </Layout>
+    <ChoicePage data={data} location={location}/>
   )
 }
 
@@ -20,7 +13,12 @@ export const query = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {
+        choice1
+        choice2
+        link1
+        link2
         title
+        book
       }
     }
   }
