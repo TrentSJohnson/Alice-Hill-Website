@@ -3,12 +3,12 @@ import Layout from "../components/layout"
 import { css } from "@emotion/core"
 import { Link } from "gatsby"
 
-export default props => {
-  const post = props.data.markdownRemark
+export default ({location, data}) => {
+  const post = data.markdownRemark
   var link1 = post.frontmatter.link1
   var link2 = post.frontmatter.link2
   var book = 0 == "true".localeCompare(post.frontmatter.book)
-    || 0 == "true".localeCompare(props.location.state.book)
+    || 0 == "true".localeCompare(location.state.book)
   
   if (book && post.frontmatter.book.localeCompare("next") == 0) {
     link1 = "/choices/finishedBook/"
@@ -29,7 +29,6 @@ export default props => {
         >{post.frontmatter.choice2}</Link>
     </div>
     <p>{book.toString()}</p>
-    <p>{props.location.state.book}</p>
     <p>{post.frontmatter.book}</p>
     </Layout>
   )
