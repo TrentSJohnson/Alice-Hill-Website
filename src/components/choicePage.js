@@ -7,6 +7,7 @@ export default ({location, data}) => {
   const post = data.markdownRemark
   var link1 = post.frontmatter.link1
   var link2 = post.frontmatter.link2
+  var link3 = post.frontmatter.link3
   var book = 0 == "true".localeCompare(post.frontmatter.book)
     || 0 == "true".localeCompare(location.state.book)
   
@@ -27,6 +28,10 @@ export default ({location, data}) => {
             to={link2}
             css={css`margin: 1em;`}
         >{post.frontmatter.choice2}</Link>
+        <Link state={{book: book}} 
+            to={link3}
+            css={css`margin: 2em;`}
+        >{post.frontmatter.choice3}</Link>
     </div>
     <p>{book.toString()}</p>
     <p>{post.frontmatter.book}</p>

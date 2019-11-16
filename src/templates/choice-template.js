@@ -8,6 +8,7 @@ export default ({ data, location }) => {
   const post = data.markdownRemark;
   var link1 = post.frontmatter.link1;
   var link2 = post.frontmatter.link2;
+  var link3 = post.frontmatter.link3;
   var bookl = false;
   try {
     if (location.state.book != null){
@@ -15,7 +16,7 @@ export default ({ data, location }) => {
     }
   }
   catch (e){
-    
+
   }
   var bookf = 0 == "true".localeCompare(post.frontmatter.book);
   var book = bookf|| bookl;
@@ -27,6 +28,7 @@ export default ({ data, location }) => {
   return (
     <Layout>
     <div>
+        <p>{post.frontmatter.link1}</p>
         <h1 >{post.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <Link state={{book: book}} 
@@ -35,11 +37,14 @@ export default ({ data, location }) => {
         </Link>
         <Link state={{book: book}} 
             to={link2}
-            css={css`margin: 1em;`}
-        >{post.frontmatter.choice2}</Link>
+            css={css`margin: 1em;`}>
+          {post.frontmatter.choice2}
+        </Link>
+        <Link state={{book: book}} 
+            to={link3}>
+          {post.frontmatter.choice3}
+        </Link>
     </div>
-    <p>{book.toString()}</p>
-    <p>{post.frontmatter.book}</p>
     </Layout>
   )
   
@@ -52,8 +57,10 @@ export const query = graphql`
       frontmatter {
         choice1
         choice2
+        choice3
         link1
         link2
+        link3
         title
         book
       }
