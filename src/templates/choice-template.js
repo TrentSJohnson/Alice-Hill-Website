@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql, Link} from "gatsby"
-import ChoicePage from "../components/choicePage"
 import Layout from "../components/layout"
 import { css } from "@emotion/core"
 
@@ -28,7 +27,6 @@ export default ({ data, location }) => {
   return (
     <Layout>
     <div>
-        <p>{post.frontmatter.link1}</p>
         <h1 >{post.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <Link state={{book: book}} 

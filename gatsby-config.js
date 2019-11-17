@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Trent Johnson`,
-    description: `A blog, projects, and resume for Trent Johnson`,
+    title: `Alice Polk Hill`,
+    description: `A text based adventure about the life of the Colorado Poet Laureate Alice Polk Hill.`,
     author: `Trent Johnson`,
   },
   plugins: [

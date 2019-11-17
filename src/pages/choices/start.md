@@ -1,6 +1,6 @@
 ---
 title: "Start"
-link1: "/choices/birth/"
+link1: "/choices/kentucky/birth/"
 link2: "/"
 link3: "/"
 choice1: "Continue"
