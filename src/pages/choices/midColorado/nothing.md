@@ -1,5 +1,5 @@
 ---
-title: "Poor Schooling"
+title: "A Touch of Guilt"
 link1: "/choices/midColorado/forest/"
 link2: "/"
 link3: "/"
