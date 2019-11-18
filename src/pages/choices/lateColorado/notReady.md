@@ -9,10 +9,11 @@ choice3: ""
 book: ""
 ---
 I am not Ready Yet
+
 Alice Polk Hill
 
-In the nursery was burning a fire, warm and bright, 
-And the lamp from above threw a radiant light, 
+In the nursery was burning a fire, warm and bright,
+ And the lamp from above threw a radiant light, 
 On a little boy's head with its soft curling locks, 
 He was busily building his houses of blocks. 
 There was joy in his heart and a smile in his eye. 
@@ -20,8 +21,8 @@ And unheeded the fast flying moments went by. .
 "It is late," said his papa, "you must go to bed." 
 With a face full of sorrow he looked up and said: 
 
-“O, papa, I am not ready yet. 
-"See my house is not finished, O, please let me stay." 
+“O, papa, I am not ready yet. "
+See my house is not finished, O, please let me stay." 
 He again sadly pleaded when going away: 
 "O, papa I am not ready yet." 
 
@@ -34,8 +35,7 @@ Building houses on earth, building castles in air,
 But when called to the slumber which closes his days, 
 With his work all unfinished he earnestly prays, 
 
-"O, Father, I am not ready yet; 
-For my soul I've neglected, I thought not of death." 
+"O, Father, I am not ready yet;
+ For my soul I've neglected, I thought not of death." 
 And he sadly implores with his last fleeting breath: 
-
 O, Father, I am not ready yet." 
