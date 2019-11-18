@@ -6,7 +6,7 @@ link3: "/"
 choice1: "Continue"
 choice2: ""
 choice3: ""
-book: ""
+book: "true"
 ---
 Your research paid off! In 1884, You collect your works into a 300 page book book titled <span class="italic">Tales of Colorado Pioneers..</span>
 
