@@ -1,8 +1,8 @@
 ---
 title: "Suprise!"
-link1: "/"
-link2: "/"
-link3: "/"
+link1: "/choices/midColorado/reading/"
+link2: "/choices/midColorado/reading/"
+link3: "/choices/midColorado/reading/"
 choice1: "Claude"
 choice2: "Jane"
 choice3: "William"

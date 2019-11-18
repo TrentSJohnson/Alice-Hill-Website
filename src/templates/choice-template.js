@@ -21,7 +21,7 @@ export default ({ data, location }) => {
   var book = bookf|| bookl;
   
   if (book && post.frontmatter.book.localeCompare("next") == 0) {
-    link1 = "/choices/finishedBook/"
+    link1 = "/choices/writebook2/"
   }
 
   return (
