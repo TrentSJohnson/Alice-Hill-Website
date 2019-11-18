@@ -12,7 +12,7 @@ In Pueblo Chieftain and other newspapers, you publish "The Message of the Tree"
 
 The Message of the Tree
 
-When this old world was young, then grew a tree.
+When this old world was young, there grew a tree.
 	Beneath it flowers bloomed in dust and sand,
 The birds aswing upon its limbs sang free.
 	And dreary earth became enchanted land.

@@ -1,5 +1,5 @@
 ---
-title: "Christmas Hymn"
+title: "Free Time"
 link1: "/choices/newColorado/missedOp/"
 link2: "/choices/newColorado/manyStories/"
 link3: "/"

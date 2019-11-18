@@ -9,6 +9,6 @@ choice3: ""
 book: "next"
 ---
 
-Your child comes home from school telling you about how Forest ProtectionWeek is coming up. You reflect on how the trees that used to dot the landscape have been disappearing since you moved here. 
+Your child comes home from school telling you about how Forest Protection Week is coming up. You reflect on how the trees that used to dot the landscape have been disappearing since you moved here. 
 
 What do you do?
