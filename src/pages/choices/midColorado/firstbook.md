@@ -1,6 +1,6 @@
 ---
-title: "Second Edition!"
-link1: "/choices/lateColorado/grandaughter/"
+title: "A New Book!"
+link1: "/choices/lateColorado/granddaughter/"
 link2: "/"
 link3: "/"
 choice1: "Continue"

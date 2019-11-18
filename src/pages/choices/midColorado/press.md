@@ -1,5 +1,5 @@
 ---
-title: "Suprise!"
+title: "Another Club!"
 link1: "/choices/midColorado/summer/"
 link2: "/"
 link3: "/"
@@ -10,4 +10,4 @@ book: ""
 ---
 <span class="bold">You end up founding the Woman’s Press Club!</span> 
 
-Hill, Polk Alice. <p class="italic">Colorado In History and Story.</p> Pierson & Gardner, 1884
+Hill, Polk Alice. <span class="italic">Colorado In History and Story.</span> Pierson & Gardner, 1884

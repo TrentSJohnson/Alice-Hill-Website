@@ -1,5 +1,5 @@
 ---
-title: "Nervous for a New Journer"
+title: "Nervous for a New Journery"
 link1: "/choices/kentucky/counsel/"
 link2: "/"
 link3: "/"
