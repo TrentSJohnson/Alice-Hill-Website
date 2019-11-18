@@ -1,5 +1,5 @@
 ---
-title: "Guilt"
+title: "Poor Schooling"
 link1: "/choices/midColorado/nothing/"
 link2: "/choices/midColorado/contest/"
 link3: "/"

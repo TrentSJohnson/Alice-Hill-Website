@@ -1,7 +1,7 @@
 ---
 title: "The Male Charter"
 link1: "/choices/newColorado/realCity/"
-link2: "/choices/newColorado/missedOp/"
+link2: "/choices/newColorado/lonely/"
 link3: "/"
 choice1: "No way I am letting men do all the work!"
 choice2: "It's the 19th century. You can't fight the patriarchy."

@@ -1,7 +1,7 @@
 ---
 title: "Loneliness"
-link1: "/choices/newColorado/extraTime/"
-link2: "/choices/newColorado/roundTable/"
+link1: "/choices/newColorado/roundTable/"
+link2: "/choices/newColorado/extraTime/"
 link3: "/"
 choice1: "Yes"
 choice2: "No"
