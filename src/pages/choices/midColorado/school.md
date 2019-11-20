@@ -8,6 +8,6 @@ choice2: "Try to encourage students to care more about history."
 choice3: ""
 book: ""
 ---
-As you daughter attends school, you are shocked at how little state history is taught about in school. 
+As you daughter attends school, you are shocked at how little state history is taught. 
 
 What do you do?

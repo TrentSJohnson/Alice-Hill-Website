@@ -8,4 +8,4 @@ choice2: ""
 choice3: ""
 book: ""
 ---
-You guys are both excited about the new opportunities that the trip will bring.
+You guys are both excited about the new opportunities that moving will bring.
