@@ -8,6 +8,6 @@ choice2: "Time for another club!"
 choice3: ""
 book: ""
 ---
-With all this time spent home taking care of the baby, you have been reading the newspaper a lot more. You notice that women are really excluded from both writing the stories and being featured the stories.
+With all this time spent home taking care of the baby, you have been reading the newspaper a lot more. You notice that women are being excluded from both writing the stories and being featured the stories.
 
 What do you do?

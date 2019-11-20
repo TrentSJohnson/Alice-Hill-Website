@@ -8,6 +8,6 @@ choice2: "Go for it"
 choice3: ""
 book: ""
 ---
-Your original book <span class="italic">Tales of Colorado Pioneers</span> did well, but it is a hard read as it is almost entirely text. Furthermore, as you have lived longer in Colorado, you have made more connections and learned more history. 
+Your original book <span class="italic">Tales of Colorado Pioneers</span> did well, but it is a massive block of text which isn't extremely reader friendly. Furthermore, as you have lived longer in Colorado, you have made more connections and learned more history. 
 
 Should you write a second edition?

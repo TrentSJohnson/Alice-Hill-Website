@@ -8,4 +8,4 @@ choice2: ""
 choice3: ""
 book: ""
 ---
-After a few years, a new joy enters your life, a granddaughter named Alice. There is only one way you know how express the love, pride, and hope you have.
+After a few years, a new joy enters your life, a granddaughter named Alice. There is only one way you know how to express the new love, pride, and hope you have.

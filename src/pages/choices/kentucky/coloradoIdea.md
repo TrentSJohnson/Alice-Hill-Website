@@ -8,6 +8,6 @@ choice2: "No"
 choice3: ""
 book: ""
 ---
-With the Colorado Gold Rush still recent, William decides you guys should go to brand new state of Colorado to open a trade store for the influx of miners.
+With the Colorado Gold Rush still recent, William decides you guys should go to the brand new state of Colorado to open a trade store for the influx of miners.
 
 Do you agree with his plan?
